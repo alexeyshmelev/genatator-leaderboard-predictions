@@ -1,0 +1,17 @@
+{
+  "NTv3_100M_post_32768_all_transcripts_Hs_NC_060944_1_gene_level_forward.gff": "NTv3 100M 30 kb",
+  "NTv3_100M_post_999936_all_transcripts_Hs_NC_060944_1_gene_level.gff": "NTv3 100M 1 Mb",
+  "NTv3_650M_post_32768_all_transcripts_Hs_NC_060944_1_gene_level_forward.gff": "NTv3 650M 30 kb",
+  "NTv3_650M_post_999936_all_transcripts_Hs_NC_060944_1_gene_level.gff": "NTv3 650M 1 Mb",
+  "alpha_genome_all_transcripts_Hs_NC_060944_1_gene_level_forward_tr0.gff": "AlphaGenome 1 Mb",
+  "annevo-all_transcripts-Hs_NC_060944.1.gff": "Annevo",
+  "augustus-all_transcripts_Hs_NC_060944.1.gff": "AUGUSTUS",
+  "caduceus_ps_250k_middle_loss_all_transcripts_Hs_NC_060944_1_gene.gff": "Caduceus PS 250 kb",
+  "gena_1M_shawerma_all_transcripts_Hs_NC_060944_1_gene_level_mean.gff": "GENA large RMT 1 Mb",
+  "gff_Hs_NC_06944_helixer.gff": "Helixer",
+  "segmentNT_30000_Hs_NC_060944_1_gene_level_forward_tr0_5_preds.gff": "SegmentNT 30 kb",
+  "segmentNT_49992_Hs_NC_060944_1_gene_level_forward_tr0_5_preds.gff": "SegmentNT 50 kb",
+  "segmentNT_multi_species_30000_Hs_NC_060944_1_gene_level_forward.gff": "SegmentNT ms 30 kb",
+  "segmentNT_multi_species_49992_Hs_NC_060944_1_gene_level_forward.gff": "SegmentNT ms 50 kb",
+  "tiberius-all_transcripts_Hs_NC_060944.1.gff": "Tiberius"
+}
