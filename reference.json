@@ -1,0 +1,16 @@
+{
+  "AUGUSTUS": "https://academic.oup.com/bioinformatics/article/24/5/637/202844?login=false",
+  "Helixer": "https://www.nature.com/articles/s41592-025-02939-1",
+  "Tiberius": "https://academic.oup.com/bioinformatics/article/40/12/btae685/7903281",
+  "GENATATOR (Caduceus)": "https://openreview.net/forum?id=d0aTjHRlL0",
+  "GENATATOR (GENA RMT)": "https://openreview.net/forum?id=d0aTjHRlL0",
+  "Annevo": "https://www.nature.com/articles/s41592-026-03036-7",
+  "NTv3 100M 30 kb": "https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1",
+  "NTv3 650M 30 kb": "https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1",
+  "NTv3 100M 1 Mb": "https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1",
+  "NTv3 650M 1 Mb": "https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1",
+  "SegmentNT ms 50 kb": "https://www.nature.com/articles/s41592-025-02881-2",
+  "SegmentNT 50 kb": "https://www.nature.com/articles/s41592-025-02881-2",
+  "SegmentNT ms 30 kb": "https://www.nature.com/articles/s41592-025-02881-2",
+  "SegmentNT 30 kb": "https://www.nature.com/articles/s41592-025-02881-2"
+}
